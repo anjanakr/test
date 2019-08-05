@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="table">2ed7b3465f033300f81c2e921f4666e3</application>
+        <filter/>
+        <name>tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_test.table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-05 17:06:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7ad7b3465f033300f81c2e921f4666e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tables</sys_name>
+        <sys_package display_value="test" source="sn_test">2796ffc25f033300f81c2e921f46669b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">2796ffc25f033300f81c2e921f46669b</sys_scope>
+        <sys_update_name>sys_ui_module_7ad7b3465f033300f81c2e921f4666e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-05 17:06:24</sys_updated_on>
+        <table>sn_test_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
